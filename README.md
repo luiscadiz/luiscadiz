@@ -1,4 +1,4 @@
-Hola👋, Soy Luis
+Hola👋, Soy Luis 👨‍💻
 **Desarrollador .NET en progreso**
 - ⚡ Fanatico de las nuevas tecnologías 🙌
 - 💻 Me encanta compartir el conocimiento con otras personas 💻
